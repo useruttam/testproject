@@ -7,3 +7,4 @@ console.log(Math.floor(9/4))
 console.log(94)
 var myarray= [["uttam",112],["abd",2]];
 console.log(myarray);
+console.log("hi");
